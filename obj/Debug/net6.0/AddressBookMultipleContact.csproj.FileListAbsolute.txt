@@ -1,0 +1,15 @@
+D:\.net\AddressBookMultipleContact\bin\Debug\net6.0\AddressBookMultipleContact.exe
+D:\.net\AddressBookMultipleContact\bin\Debug\net6.0\AddressBookMultipleContact.deps.json
+D:\.net\AddressBookMultipleContact\bin\Debug\net6.0\AddressBookMultipleContact.runtimeconfig.json
+D:\.net\AddressBookMultipleContact\bin\Debug\net6.0\AddressBookMultipleContact.dll
+D:\.net\AddressBookMultipleContact\bin\Debug\net6.0\AddressBookMultipleContact.pdb
+D:\.net\AddressBookMultipleContact\obj\Debug\net6.0\AddressBookMultipleContact.csproj.AssemblyReference.cache
+D:\.net\AddressBookMultipleContact\obj\Debug\net6.0\AddressBookMultipleContact.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\AddressBookMultipleContact\obj\Debug\net6.0\AddressBookMultipleContact.AssemblyInfoInputs.cache
+D:\.net\AddressBookMultipleContact\obj\Debug\net6.0\AddressBookMultipleContact.AssemblyInfo.cs
+D:\.net\AddressBookMultipleContact\obj\Debug\net6.0\AddressBookMultipleContact.csproj.CoreCompileInputs.cache
+D:\.net\AddressBookMultipleContact\obj\Debug\net6.0\AddressBookMultipleContact.dll
+D:\.net\AddressBookMultipleContact\obj\Debug\net6.0\refint\AddressBookMultipleContact.dll
+D:\.net\AddressBookMultipleContact\obj\Debug\net6.0\AddressBookMultipleContact.pdb
+D:\.net\AddressBookMultipleContact\obj\Debug\net6.0\AddressBookMultipleContact.genruntimeconfig.cache
+D:\.net\AddressBookMultipleContact\obj\Debug\net6.0\ref\AddressBookMultipleContact.dll
